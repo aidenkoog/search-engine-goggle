@@ -11,6 +11,7 @@
 #### Release Note
 
 - 2023/03/10: Uploaded custom search engine project.
+- 2023/03/10: Adjusted indentation and added comment to app.js.
 
 #### Link
 

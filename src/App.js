@@ -8,12 +8,17 @@ function App() {
     <div className="app">
       <Router>
         <Switch>
+
+          {/* search route. */}
           <Route path="/search">
             <SearchPage />
           </Route>
+
+          {/* home-search-result route. */}
           <Route path="/">
             <Home />
           </Route>
+
         </Switch>
       </Router>
     </div>
