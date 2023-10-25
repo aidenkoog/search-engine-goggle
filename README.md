@@ -2,7 +2,7 @@
 - As of October 18, 2023, this repository will no longer be maintained.
 - From now on, only repositories with the awesome prefix will be managed.
 
-## Awesome search engine Goggle
+## Search engine Goggle
 
 - Implemented by React, Javascript, Google search API.
 
